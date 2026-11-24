@@ -1,0 +1,16 @@
+.toplevel_page_ediot-template-importer li:has([href="admin.php?page=ediot-premium-templates"]) {
+    padding: 4px 0;
+    background: linear-gradient(90deg, #ff6a6a 0%, #ff2a68 100%);
+    text-align: center;
+}
+
+.toplevel_page_ediot-template-importer [href="admin.php?page=ediot-premium-templates"]:hover{
+    color: white !important;
+}
+
+.toplevel_page_ediot-template-importer.opensub [href="admin.php?page=ediot-premium-templates"] {
+    color: white !important;
+}
+.toplevel_page_ediot-template-importer [href="admin.php?page=ediot-premium-templates"] {
+    color: white !important;
+}

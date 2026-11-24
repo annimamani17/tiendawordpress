@@ -1,0 +1,76 @@
+{
+  "$schema": "https://schemas.wp.org/trunk/theme.json",
+  "title": "Modern Purple",
+  "version": 2,
+  "settings": {
+    "color": {
+        "palette": [
+            {
+                "color": "#372D47",
+                "name": "Base",
+                "slug": "base"
+            },
+            {
+                "color": "#9E7ABE",
+                "name": "Primary",
+                "slug": "primary"
+            },
+            {
+                "color": "#14B8A6",
+                "name": "Secondary",
+                "slug": "secondary"
+            },
+            {
+                "color": "#EDE9FE",
+                "name": "Primary Light",
+                "slug": "primary-light"
+            },
+            {
+                "color": "#CED6E4",
+                "name": "Body Text",
+                "slug": "body-text"
+            },
+            {
+                "color": "#CAD2DE",
+                "name": "Headings",
+                "slug": "heading"
+            },
+            {
+                "color": "#7D34B8",
+                "name": "Top Bg Color",
+                "slug": "top-bg-color"
+            },
+            {
+                "color": "#0f0f12",
+                "name": "Section Background",
+                "slug": "section-bg"
+            },
+            {
+                "color": "#000000",
+                "name": "Background",
+                "slug": "background"
+            },
+            {
+                "color": "#ffffff",
+                "name": "Foreground",
+                "slug": "foreground"
+            },
+            {
+                "color":"#23262D",
+                "name": "Footer Bg",
+                "slug": "footer-Bg"
+            },
+            {
+                "color":"#393939",
+                "name": "Border Color",
+                "slug": "border-color"
+            },
+            {
+                "color":"#3f4041",
+                "name": "Sidebar Shadow Color",
+                "slug": "sidebar-shadow-color"
+            }
+        ]
+    }
+  }
+}

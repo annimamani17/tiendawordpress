@@ -1,0 +1,7 @@
+wp-content/uploads/
+wp-content/upgrade/
+wp-content/upgrade-temp-backup/
+
+*.lnk
+Thumbs.db
+.DS_Store

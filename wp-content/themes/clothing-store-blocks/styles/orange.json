@@ -1,0 +1,76 @@
+{
+  "$schema": "https://schemas.wp.org/trunk/theme.json",
+  "title": "Orange",
+  "version": 2,
+  "settings": {
+    "color": {
+        "palette": [
+            {
+                "color": "#FFFFFFBD",
+                "name": "Base",
+                "slug": "base"
+            },
+            {
+                "color": "#762F059E",
+                "name": "Primary",
+                "slug": "primary"
+            },
+            {
+                "color": "#AEA679",
+                "name": "Secondary",
+                "slug": "secondary"
+            },
+            {
+                "color": "#E4FAFF",
+                "name": "Primary Light",
+                "slug": "primary-light"
+            },
+            {
+                "color": "#736969",
+                "name": "Body Text",
+                "slug": "body-text"
+            },
+            {
+                "color": "#706B6B",
+                "name": "Headings",
+                "slug": "heading"
+            },
+            {
+                "color": "#574E3A",
+                "name": "Top Bg Color",
+                "slug": "top-bg-color"
+            },
+            {
+                "color": "#0f0f12",
+                "name": "Section Background",
+                "slug": "section-bg"
+            },
+            {
+                "color": "#000000",
+                "name": "Background",
+                "slug": "background"
+            },
+            {
+                "color": "#ffffff",
+                "name": "Foreground",
+                "slug": "foreground"
+            },
+            {
+                "color":"#23262D",
+                "name": "Footer Bg",
+                "slug": "footer-Bg"
+            },
+            {
+                "color":"#393939",
+                "name": "Border Color",
+                "slug": "border-color"
+            },
+            {
+                "color":"#3f4041",
+                "name": "Sidebar Shadow Color",
+                "slug": "sidebar-shadow-color"
+            }
+        ]
+    }
+  }
+}
